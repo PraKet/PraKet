@@ -1,0 +1,44 @@
+{
+  "name": "praket",
+  "version": "0.0.1",
+  "description": "PraKet® — A Standard Notation from Quantumømics, Inc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraKet/PraKet.git"
+  },
+  "keywords": [
+    "PraKet",
+    "Standard",
+    "Notation"
+  ],
+  "author": {
+    "name": "quantumømics, Inc.",
+    "email": "quantumomics@gmail.com",
+    "url": "http://research.sequomics.com/"
+  },
+  "maintainers": [
+    {
+      "name": "Prabhat Kumar",
+      "email": "prabhat.omics@gmail.com",
+      "url": "http://prabhatkumar.org/"
+    },
+    {
+      "name": "Sequømics, Inc.",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PraKet/PraKet/issues"
+  },
+  "homepage": "https://github.com/PraKet/PraKet#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
