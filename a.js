@@ -7,7 +7,7 @@ var yeep       = chalk.green;
 	a = 4;
 	b = 5;
 	c = a + b;
-	console.log(yeep("Hi ---- ", noop(c)));
+	console.log(yeep("(u|v) Hi ---- ", noop(c)));
 })();
 
 
