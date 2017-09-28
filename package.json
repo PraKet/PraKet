@@ -34,8 +34,14 @@
     "url": "https://github.com/PraKet/PraKet/issues"
   },
   "homepage": "https://github.com/PraKet/PraKet#readme",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "glob": "^7.1.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0"
+  },
   "peerDependencies": {},
   "optionalDependencies": {},
   "engines": {
